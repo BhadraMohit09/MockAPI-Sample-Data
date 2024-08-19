@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "ProductName": "Smartphone X200",
+        "ProductManufacturer": "TechCorp",
+        "ProductCost": 799.99,
+        "ProductType": "Electronics",
+        "ProductImage": "https://example.com/images/smartphone-x200.jpg"
+    },
+    {
+        "id": 2,
+        "ProductName": "Ultra HD 4K TV",
+        "ProductManufacturer": "VisionX",
+        "ProductCost": 1199.99,
+        "ProductType": "Electronics",
+        "ProductImage": "https://example.com/images/ultra-hd-4k-tv.jpg"
+    },
+    {
+        "id": 3,
+        "ProductName": "Noise-Cancelling Headphones",
+        "ProductManufacturer": "SoundPro",
+        "ProductCost": 199.99,
+        "ProductType": "Electronics",
+        "ProductImage": "https://example.com/images/noise-cancelling-headphones.jpg"
+    },
+    {
+        "id": 4,
+        "ProductName": "Gaming Laptop Z15",
+        "ProductManufacturer": "GameTech",
+        "ProductCost": 1499.99,
+        "ProductType": "Computers",
+        "ProductImage": "https://example.com/images/gaming-laptop-z15.jpg"
+    },
+    {
+        "id": 5,
+        "ProductName": "Wireless Mouse",
+        "ProductManufacturer": "MouseCo",
+        "ProductCost": 29.99,
+        "ProductType": "Accessories",
+        "ProductImage": "https://example.com/images/wireless-mouse.jpg"
+    },
+    {
+        "id": 6,
+        "ProductName": "Ergonomic Keyboard",
+        "ProductManufacturer": "TypeEase",
+        "ProductCost": 79.99,
+        "ProductType": "Accessories",
+        "ProductImage": "https://example.com/images/ergonomic-keyboard.jpg"
+    },
+    {
+        "id": 7,
+        "ProductName": "Portable Bluetooth Speaker",
+        "ProductManufacturer": "SoundBlast",
+        "ProductCost": 49.99,
+        "ProductType": "Electronics",
+        "ProductImage": "https://example.com/images/portable-bluetooth-speaker.jpg"
+    },
+    {
+        "id": 8,
+        "ProductName": "Smartwatch S3",
+        "ProductManufacturer": "TimeWear",
+        "ProductCost": 199.99,
+        "ProductType": "Wearables",
+        "ProductImage": "https://example.com/images/smartwatch-s3.jpg"
+    },
+    {
+        "id": 9,
+        "ProductName": "Fitness Tracker",
+        "ProductManufacturer": "FitTrack",
+        "ProductCost": 99.99,
+        "ProductType": "Wearables",
+        "ProductImage": "https://example.com/images/fitness-tracker.jpg"
+    },
+    {
+        "id": 10,
+        "ProductName": "4K Action Camera",
+        "ProductManufacturer": "CapturePro",
+        "ProductCost": 299.99,
+        "ProductType": "Electronics",
+        "ProductImage": "https://example.com/images/4k-action-camera.jpg"
+    },
+    {
+        "id": 11,
+        "ProductName": "Wireless Earbuds",
+        "ProductManufacturer": "AudioFly",
+        "ProductCost": 149.99,
+        "ProductType": "Electronics",
+        "ProductImage": "https://example.com/images/wireless-earbuds.jpg"
+    },
+    {
+        "id": 12,
+        "ProductName": "Tablet Pro 10",
+        "ProductManufacturer": "TabCo",
+        "ProductCost": 599.99,
+        "ProductType": "Computers",
+        "ProductImage": "https://example.com/images/tablet-pro-10.jpg"
+    },
+    {
+        "id": 13,
+        "ProductName": "Smart Home Assistant",
+        "ProductManufacturer": "HomeAI",
+        "ProductCost": 129.99,
+        "ProductType": "Home Appliances",
+        "ProductImage": "https://example.com/images/smart-home-assistant.jpg"
+    },
+    {
+        "id": 14,
+        "ProductName": "Digital SLR Camera",
+        "ProductManufacturer": "PhotoSnap",
+        "ProductCost": 899.99,
+        "ProductType": "Electronics",
+        "ProductImage": "https://example.com/images/digital-slr-camera.jpg"
+    },
+    {
+        "id": 15,
+        "ProductName": "Robot Vacuum Cleaner",
+        "ProductManufacturer": "CleanBot",
+        "ProductCost": 299.99,
+        "ProductType": "Home Appliances",
+        "ProductImage": "https://example.com/images/robot-vacuum-cleaner.jpg"
+    },
+    {
+        "id": 16,
+        "ProductName": "Electric Toothbrush",
+        "ProductManufacturer": "BrightSmile",
+        "ProductCost": 59.99,
+        "ProductType": "Personal Care",
+        "ProductImage": "https://example.com/images/electric-toothbrush.jpg"
+    },
+    {
+        "id": 17,
+        "ProductName": "Air Purifier",
+        "ProductManufacturer": "PureAir",
+        "ProductCost": 249.99,
+        "ProductType": "Home Appliances",
+        "ProductImage": "https://example.com/images/air-purifier.jpg"
+    },
+    {
+        "id": 18,
+        "ProductName": "Wireless Charger",
+        "ProductManufacturer": "ChargeFast",
+        "ProductCost": 39.99,
+        "ProductType": "Accessories",
+        "ProductImage": "https://example.com/images/wireless-charger.jpg"
+    },
+    {
+        "id": 19,
+        "ProductName": "Smart Thermostat",
+        "ProductManufacturer": "ClimateControl",
+        "ProductCost": 199.99,
+        "ProductType": "Home Appliances",
+        "ProductImage": "https://example.com/images/smart-thermostat.jpg"
+    },
+    {
+        "id": 20,
+        "ProductName": "Gaming Console Z",
+        "ProductManufacturer": "GameWorld",
+        "ProductCost": 499.99,
+        "ProductType": "Electronics",
+        "ProductImage": "https://example.com/images/gaming-console-z.jpg"
+    }
+]
