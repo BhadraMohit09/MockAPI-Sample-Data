@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Paracetamol",
+        "category": "Pain Reliever",
+        "dosage": "500 mg",
+        "expiry_date": "2025-12-31",
+        "manufacturer": "PharmaCorp"
+    },
+    {
+        "id": "2",
+        "name": "Amoxicillin",
+        "category": "Antibiotic",
+        "dosage": "250 mg",
+        "expiry_date": "2024-10-15",
+        "manufacturer": "MediHealth"
+    },
+    {
+        "id": "3",
+        "name": "Cetirizine",
+        "category": "Antihistamine",
+        "dosage": "10 mg",
+        "expiry_date": "2026-05-22",
+        "manufacturer": "WellCare Pharma"
+    },
+    {
+        "id": "4",
+        "name": "Ibuprofen",
+        "category": "Anti-Inflammatory",
+        "dosage": "400 mg",
+        "expiry_date": "2025-07-30",
+        "manufacturer": "HealFast Inc."
+    },
+    {
+        "id": "5",
+        "name": "Metformin",
+        "category": "Diabetes",
+        "dosage": "500 mg",
+        "expiry_date": "2023-11-10",
+        "manufacturer": "Glucocare"
+    },
+    {
+        "id": "6",
+        "name": "Lisinopril",
+        "category": "Hypertension",
+        "dosage": "10 mg",
+        "expiry_date": "2024-08-19",
+        "manufacturer": "CardioPharm"
+    },
+    {
+        "id": "7",
+        "name": "Atorvastatin",
+        "category": "Cholesterol",
+        "dosage": "20 mg",
+        "expiry_date": "2025-01-01",
+        "manufacturer": "HeartCare"
+    },
+    {
+        "id": "8",
+        "name": "Aspirin",
+        "category": "Blood Thinner",
+        "dosage": "81 mg",
+        "expiry_date": "2026-03-15",
+        "manufacturer": "PainRelief Corp"
+    },
+    {
+        "id": "9",
+        "name": "Ranitidine",
+        "category": "Acid Reducer",
+        "dosage": "150 mg",
+        "expiry_date": "2024-09-05",
+        "manufacturer": "DigestCare"
+    },
+    {
+        "id": "10",
+        "name": "Losartan",
+        "category": "Hypertension",
+        "dosage": "50 mg",
+        "expiry_date": "2025-06-18",
+        "manufacturer": "HeartMed Pharma"
+    }
+]

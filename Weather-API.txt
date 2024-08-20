@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "city": "New York",
+        "temperature": "25°C",
+        "humidity": "60%",
+        "weather": "Sunny",
+        "wind_speed": "10 km/h"
+    },
+    {
+        "id": "2",
+        "city": "London",
+        "temperature": "18°C",
+        "humidity": "75%",
+        "weather": "Cloudy",
+        "wind_speed": "12 km/h"
+    },
+    {
+        "id": "3",
+        "city": "Tokyo",
+        "temperature": "22°C",
+        "humidity": "68%",
+        "weather": "Partly Cloudy",
+        "wind_speed": "8 km/h"
+    },
+    {
+        "id": "4",
+        "city": "Sydney",
+        "temperature": "27°C",
+        "humidity": "55%",
+        "weather": "Clear",
+        "wind_speed": "15 km/h"
+    },
+    {
+        "id": "5",
+        "city": "Paris",
+        "temperature": "19°C",
+        "humidity": "70%",
+        "weather": "Rainy",
+        "wind_speed": "14 km/h"
+    },
+    {
+        "id": "6",
+        "city": "Berlin",
+        "temperature": "20°C",
+        "humidity": "65%",
+        "weather": "Overcast",
+        "wind_speed": "9 km/h"
+    },
+    {
+        "id": "7",
+        "city": "Mumbai",
+        "temperature": "30°C",
+        "humidity": "80%",
+        "weather": "Humid",
+        "wind_speed": "7 km/h"
+    },
+    {
+        "id": "8",
+        "city": "Beijing",
+        "temperature": "24°C",
+        "humidity": "72%",
+        "weather": "Smoggy",
+        "wind_speed": "11 km/h"
+    },
+    {
+        "id": "9",
+        "city": "Moscow",
+        "temperature": "16°C",
+        "humidity": "85%",
+        "weather": "Snowy",
+        "wind_speed": "6 km/h"
+    },
+    {
+        "id": "10",
+        "city": "Dubai",
+        "temperature": "35°C",
+        "humidity": "40%",
+        "weather": "Hot",
+        "wind_speed": "20 km/h"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "Margherita Pizza",
+        "category": "Italian",
+        "price": "10.99",
+        "description": "Classic cheese pizza with tomato sauce and mozzarella."
+    },
+    {
+        "id": "2",
+        "name": "Caesar Salad",
+        "category": "Salad",
+        "price": "8.49",
+        "description": "Romaine lettuce, croutons, and Caesar dressing."
+    },
+    {
+        "id": "3",
+        "name": "Chicken Biryani",
+        "category": "Indian",
+        "price": "12.50",
+        "description": "Spiced chicken and basmati rice cooked with herbs."
+    },
+    {
+        "id": "4",
+        "name": "Sushi Platter",
+        "category": "Japanese",
+        "price": "18.75",
+        "description": "Assorted sushi rolls with fresh fish and vegetables."
+    },
+    {
+        "id": "5",
+        "name": "Cheeseburger",
+        "category": "American",
+        "price": "9.99",
+        "description": "Grilled beef patty with cheese, lettuce, and tomato."
+    },
+    {
+        "id": "6",
+        "name": "Pad Thai",
+        "category": "Thai",
+        "price": "11.50",
+        "description": "Stir-fried rice noodles with shrimp, tofu, and peanuts."
+    },
+    {
+        "id": "7",
+        "name": "Gelato",
+        "category": "Dessert",
+        "price": "5.99",
+        "description": "Italian-style ice cream in various flavors."
+    },
+    {
+        "id": "8",
+        "name": "Tacos",
+        "category": "Mexican",
+        "price": "7.49",
+        "description": "Soft corn tortillas filled with seasoned meat and toppings."
+    },
+    {
+        "id": "9",
+        "name": "Greek Yogurt",
+        "category": "Breakfast",
+        "price": "3.99",
+        "description": "Thick yogurt with honey and granola."
+    },
+    {
+        "id": "10",
+        "name": "Vegetable Stir Fry",
+        "category": "Asian",
+        "price": "9.25",
+        "description": "Mixed vegetables sautéed with soy sauce and garlic."
+    }
+]

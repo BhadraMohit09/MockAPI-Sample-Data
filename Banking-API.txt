@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "account_number": "1234567890",
+        "account_type": "Savings",
+        "balance": "1500.75",
+        "currency": "USD"
+    },
+    {
+        "id": "2",
+        "account_number": "9876543210",
+        "account_type": "Checking",
+        "balance": "2500.00",
+        "currency": "USD"
+    },
+    {
+        "id": "3",
+        "account_number": "1122334455",
+        "account_type": "Business",
+        "balance": "10000.50",
+        "currency": "USD"
+    },
+    {
+        "id": "4",
+        "account_number": "5566778899",
+        "account_type": "Savings",
+        "balance": "800.00",
+        "currency": "EUR"
+    },
+    {
+        "id": "5",
+        "account_number": "4433221100",
+        "account_type": "Checking",
+        "balance": "1500.25",
+        "currency": "GBP"
+    },
+    {
+        "id": "6",
+        "account_number": "9988776655",
+        "account_type": "Savings",
+        "balance": "3000.75",
+        "currency": "USD"
+    },
+    {
+        "id": "7",
+        "account_number": "6677889900",
+        "account_type": "Business",
+        "balance": "50000.00",
+        "currency": "EUR"
+    },
+    {
+        "id": "8",
+        "account_number": "2211334455",
+        "account_type": "Checking",
+        "balance": "1200.00",
+        "currency": "USD"
+    },
+    {
+        "id": "9",
+        "account_number": "5544332211",
+        "account_type": "Savings",
+        "balance": "250.75",
+        "currency": "JPY"
+    },
+    {
+        "id": "10",
+        "account_number": "7788990011",
+        "account_type": "Business",
+        "balance": "7500.00",
+        "currency": "USD"
+    }
+]

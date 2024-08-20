@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "Soccer Ball",
+        "category": "Football",
+        "price": "29.99",
+        "description": "Official size 5 soccer ball suitable for all weather conditions."
+    },
+    {
+        "id": "2",
+        "name": "Tennis Racket",
+        "category": "Tennis",
+        "price": "89.95",
+        "description": "Lightweight graphite tennis racket for professional players."
+    },
+    {
+        "id": "3",
+        "name": "Basketball",
+        "category": "Basketball",
+        "price": "24.99",
+        "description": "Indoor/outdoor basketball with superior grip and durability."
+    },
+    {
+        "id": "4",
+        "name": "Baseball Glove",
+        "category": "Baseball",
+        "price": "59.99",
+        "description": "Leather baseball glove designed for comfort and performance."
+    },
+    {
+        "id": "5",
+        "name": "Cricket Bat",
+        "category": "Cricket",
+        "price": "120.00",
+        "description": "English willow cricket bat with excellent power and balance."
+    },
+    {
+        "id": "6",
+        "name": "Running Shoes",
+        "category": "Running",
+        "price": "75.00",
+        "description": "Breathable running shoes with cushioned sole for long-distance running."
+    },
+    {
+        "id": "7",
+        "name": "Yoga Mat",
+        "category": "Yoga",
+        "price": "19.99",
+        "description": "Non-slip yoga mat made from eco-friendly materials."
+    },
+    {
+        "id": "8",
+        "name": "Golf Clubs",
+        "category": "Golf",
+        "price": "450.00",
+        "description": "Set of 14 golf clubs including driver, irons, and putter."
+    },
+    {
+        "id": "9",
+        "name": "Boxing Gloves",
+        "category": "Boxing",
+        "price": "39.99",
+        "description": "High-quality boxing gloves with extra padding for protection."
+    },
+    {
+        "id": "10",
+        "name": "Swimming Goggles",
+        "category": "Swimming",
+        "price": "15.99",
+        "description": "Anti-fog, UV-protected swimming goggles with adjustable strap."
+    }
+]
